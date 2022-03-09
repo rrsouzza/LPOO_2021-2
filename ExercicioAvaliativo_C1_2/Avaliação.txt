@@ -1,0 +1,36 @@
+EXERCÍCIO AVALIATIVO 2 DA C1
+
+Observações:
+i. Este código deve ser feito em grupo de até 5 pessoas
+ii. Ele deverá ser postado no Envio de Trabalho até o dia 16/09 às 23:59.
+iii. Valor: 2,0 pontos na C1
+iv. O grupo deve desenvolver os códigos abaixo.
+v. O grupo deve postar também o relatório descrevendo a contribuição de cada
+componente do grupo no desenvolvimento do exercício
+
+
+(0,7) 1. a) Implemente uma classe PilhaInteiro que vai armazenar uma pilha de
+inteiros com as operações:
+
+1. Verificar se a pilha está vazia
+2. Push (Inserir um elemento no topo da pilha)
+3. Pop (Remover o elemento do topo da pilha)
+4. Retornar o tamanho da pilha
+5. Retorna o último
+
+
+(0,7) 2. a) Implemente uma classe FilaInteiro que vai armazenar uma fila de
+inteiros com as operações:
+
+1. Verificar se a fila está vazia
+2. Enqueue (Inserir um elemento no fim da fila)
+3. Dequeue (Remover o elemento do início da fila)
+4. Retornar o tamanho da fila
+5. Retorna o primeiro
+
+
+(0,6) 3 - Faça um aplicativo que vai armazenar vários valores inteiros (o
+programa pára de armazenar quando o usuário digitar 0 – zero). Se o valor
+digitado for par ele deve ser armazenado em um pilha. Se for ímpar, ele deve
+ser armazenado em uma fila.
+Imprima o valor que está no topo da pilha e no início da fila.

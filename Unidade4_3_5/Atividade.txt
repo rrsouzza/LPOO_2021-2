@@ -1,0 +1,41 @@
+Ex. 1 – Para fazer um sistema são necessárias 3 classes:
+
+Automovel que contém as constantes NUMEROMAXIMOPRESTACOES (24), GASOLINA (1), FLEX (2), DIESEL (3), GAS (4), além dos atributos modelo, cor e combustível. Os métodos, além dos gets e sets, devem ter:
+
+numeroPrestacoes que retorna o número máximo de prestações
+
+valor que retorna
+
+60000 se o automóvel for a gasolina
+
+55000 se for a diesel
+
+52000 se for a gas
+
+58000 se for flex
+
+ToString cuja saída deve ser: “modelo cor Movido a (tipo)”
+
+AutomovelBasico que herda da classe Automovel e que contém os atributos booleanos retrovisorDoPassageiro, limpadorTraseiro, radioAmFm.
+O construtor e os métodos is (quando um atributo é booleano, não se usa get, mas sim is), sets, toString e:
+
+valor que retorna a soma do valor original mais
+
+1250 se o automóvel tiver retrovisor do passageiro
+
+500 se tiver limpador traseiro
+
+1500 se tiver rádio AM/FM
+
+AutomovelDeLuxo que herda da classe AutomovelBasico e que contém os atributos booleanos direcaohidraulica, cambioAutomatico, vidroETravaEletrica e uma redeclaração
+da constante NUMEROMAXIMOPRESTACOES (36). O construtor e os métodos is, sets, toString e:
+
+Redeclaração do método numeroPrestacoes definido na classe Automovel, que retorna o número máximo de prestações
+
+valor que retorna a soma do valor da classe mãe mais
+
+2500 se o automóvel tiver direção hidráulica
+
+3000 se tiver câmbio automático
+
+1700 se tiver vidro e trava elétrica

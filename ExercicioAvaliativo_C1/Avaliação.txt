@@ -1,0 +1,19 @@
+(3,0) 1 – Crie um jogo que tenha as seguintes classes:
+
+a) Alvo que tem um atributo de classe vida (com valor 3), que tem apenas o método
+get, bem como os atributos de instância posx e posy (inteiros) que armazenam as
+coordenadas x e y do alvo a ser abatido, cor que armazena B se o alvo for branco e P se
+ele for preto.
+Faça o construtor, gets, sets e toString dos atributos de instância e método atira. Este
+método recebe a posição x e y do tiro e, se acertar um alvo, deve verificar sua cor. Se o
+alvo for preto, decrementa o atributo vida, mas se for branco, o atributo vida é
+incrementado. Esse método deve retorna um char indicando se acertou o alvo branco (B),
+preto (P) ou nenhum dos dois (N).
+
+b) Aplicativo que cria 15 objetos da classe Alvo (3 brancos e 12 pretos) em posições
+inteiras aleatórias (posx e posy de 1 a 5) e diferentes, ou seja, não pode ter dois alvos na
+mesma posição. O jogador tem direito a 10 tiros. Se o tiro atingir um alvo preto, ele será
+destruído e outro alvo preto deve ser criado em uma posição aleatória que não tenha
+nenhum outro alvo. Mas, se atingir um alvo branco, ele será destruído somente. O jogo
+termina quando a quantidade de vidas do Alvo zerar (Venceu) ou quando os tiros
+acabarem (Game over).

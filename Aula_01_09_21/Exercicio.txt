@@ -1,0 +1,3 @@
+1 - Faça um programa que preencha um ArrayList ou uma LinkedList 
+com números inteiros, mostre essa lista na tela,
+remova todos os pares da lista e mostre novamente na tela.

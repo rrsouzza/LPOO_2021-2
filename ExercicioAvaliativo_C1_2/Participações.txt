@@ -1,0 +1,12 @@
+Grupo:
+    -Ricardo Rodrigues
+    -Rodrigo Andreatta
+    -Lucas Dalvi
+    -Matheus Passos
+    -Erick Antonio
+
+Ricardo:
+    Inicialmente comecei a realizar a atividade por conta própria assim que finalizei as correções da Atividade Avaliativa 1. Fiz a classe PilhaInteiro, mas deixei o restante para finalizarmos em grupo mais tarde.
+
+Nos reunimos no Discord para finalizar a atividade. Faltava apenas a classe FilaInteiro, a qual por ser bem similar à classe PilhaInteiro, terminamos em pouco tempo. Valeu apenas algumas alterações nos nomes dos métodos e algumas variáveis e já estava pronto.
+Após a FilaInteiro, iniciamos a classe App.java, a qual teria o método principal. Todos contribuíram como puderam, dando dicas e tirando dúvidas. Finalizamos a atividade no mesmo encontro.

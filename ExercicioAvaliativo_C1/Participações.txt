@@ -1,0 +1,19 @@
+Grupo:
+-Rodrigo Andreatta
+-Matheus Passos
+-Ricardo Rodrigues
+-Erick Antonio
+-Lucas Dalvi
+
+-Inicialmente, Rodrigo e Matheus ficaram responsáveis por começar a desenvolver a classe Alvo. Seguindo os conformes informados pela professora, definiram as variáveis iniciais da classe, assim como os getters, setters, toString, métodos construtores e de instância da classe. Eventualmente o grupo todo se reuniu em uma sala online no Discord e todos ajudamos a finalizar o método Atira, da classe Alvo. 
+
+-No mesmo encontro, começamos a desenvolver o método principal da classe Jogo. Ricardo transmitiu a tela e todos do grupo participaram dando dicas e ideias para os detalhes pertinentes à atividade.
+
+-Eventualmente decidimos criar um método separado do principal. Esse método teria o objetivo de gerar as coordenadas de um novo Alvo, assim como verificar o ArrayList para o caso de já existir outro Alvo com as mesmas coordenadas sorteadas. Erick e Lucas começaram a idealizar a lógica desse método, assim como desenvolvê-lo.
+Foi decidido fazer esse método separadamente, pela necessidade de gerar coordenadas em momentos separados durante a execução do programa. Sendo eles no início ao criar os 15 alvos em diferentes coordenadas, e durante as jogadas do usuário, no caso de acertar um alvo Preto, onde o mesmo deveria ser eliminado, e outro Alvo deveria ser gerado em coordenadas diferentes. Ao separar o Gerador de Coordenadas do método principal, conseguiríamos executar a mesma tarefa sem precisar repetir código na nossa classe.
+
+-Após esse encontro, Ricardo continuou a desenvolver o restante do método principal. Na semana seguinte, realizamos um segundo encontro onde foi "finalizado" o método principal assim como o método GerarCoordenadaAlvo.
+
+-Uma das condições para a geração dos Alvos, é que um alvo não deve possuir as mesmas coordenadas X e Y de outro alvo. Sendo assim, seria necessário que o método GerarCoordenadaAlvo gerasse dois números inteiros aleatórios, armazenasse-os em duas variáveis diferentes, e procedesse a ler as instâncias do ArrayList, usando os métodos getPosX() e getPos() para receber os valores das coordenadas de cada alvo registrado, afim de compará-los com os dois valores inteiros gerados aleatoriamente.
+    
+    

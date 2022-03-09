@@ -1,0 +1,175 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AppBanco",
+            "request": "launch",
+            "mainClass": "Unidade4_10_3.AppBanco",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "ExercicioAvaliativo_C2.App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppVeiculo",
+            "request": "launch",
+            "mainClass": "AvaliacaoC2.AppVeiculo",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Unidade4_10_2.App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Unidade4_10_1.App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppTV",
+            "request": "launch",
+            "mainClass": "Unidade4_9.AppTV",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppLeArquivo",
+            "request": "launch",
+            "mainClass": "Unidade4_7.AppLeArquivo",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Unidade4_8_1.App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppZoologico",
+            "request": "launch",
+            "mainClass": "Unidade4_2.AppZoologico",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Unidade4_1.App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringGenerator",
+            "request": "launch",
+            "mainClass": "StringGenerator",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppListaAluno",
+            "request": "launch",
+            "mainClass": "Aula_01_09_21.AppListaAluno",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayLista",
+            "request": "launch",
+            "mainClass": "Aula_01_09_21.ArrayLista",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListaInteiros",
+            "request": "launch",
+            "mainClass": "AvaliacaoC1.ListaInteiros",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal",
+            "request": "launch",
+            "mainClass": "AvaliacaoC1.Principal",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "ExercicioAvaliativo2_C1.App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jogo",
+            "request": "launch",
+            "mainClass": "ExercicioAvaliativo_C1.Jogo",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(1)",
+            "request": "launch",
+            "mainClass": "Unidade2_1.App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(2)",
+            "request": "launch",
+            "mainClass": "Unidade2_2.App",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Unidade2_3.Calculadora",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppCliente",
+            "request": "launch",
+            "mainClass": "Unidade2_4.AppCliente",
+            "projectName": "LPOO_2021-2_158f33f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Concessionaria",
+            "request": "launch",
+            "mainClass": "Unidade3_1.Concessionaria",
+            "projectName": "LPOO_2021-2_158f33f5"
+        }
+    ]
+}

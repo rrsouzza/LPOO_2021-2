@@ -1,0 +1,13 @@
+INTEGRANTES DO GRUPO:
+    -Ricardo Rodrigues
+    -Erick Mercado
+    -Lucas Dalvi
+    -Matheus Passos
+    -Rodrigo Andreatta
+
+Ricardo:
+    Profª, acabou que quando fui olhar o .pdf do exercício avaliativo, percebi que era um exercício que eu já tinha feito.
+    Já havia umas semanas que eu estava procurando fazer os exercícios da Unidade 4 de Reutilização de Classes, praticando e aprendendo a trabalhar com classes herdeiras, assim como implementação de interfaces.
+    O Exercício 2 do item 4.10 do Conteúdo da Unidade 4 era um exercício que já havia feito, então quando olhei o .pdf do exercício avaliativo, percebi que sem querer já havia feito o trabalho. Eu alterei algumas poucas coisas para deixar o programa mais intuitivo, e adicionei comentários em tudo pra ajudar na explicação pro restante do grupo.
+
+    Eu agendei com todo mundo de juntarmos em uma chamada no Discord no Domingo(31) às 14h, e então mostrei pra todos o que havia feito no programa. Expliquei qual era a proposta passada pela sra. e como o programa funciona de uma forma geral. Discutimos entre nós algumas ideias e ofereci pra tirar dúvidas caso tivessem alguma. No mais, realmente não tinha muita coisa a ser feita visto que o programa já estava pronto, mas valido o fato de que todos mostraram interesse e se dispuseram à ajudar e participar.
